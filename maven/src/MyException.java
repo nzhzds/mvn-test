@@ -10,7 +10,7 @@ import java.util.List;
 public class MyException {
 
 	/**
-	 * @param args
+	 * @param args  
 	 */
 	public static void main(String[] args) {
 //		InputStream in = null;
